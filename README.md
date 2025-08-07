@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shukri Mohamed 👋</h1>
-<p align="center"><b>Software Engineer | Women in Tech Advocate | Lifelong Learner</b></p>
+<p align="center"><b>Software Engineer | Women in Tech Advocate | </b></p>
 <p align="center"><i>Empowering women. Studying and trying new things every day.</i></p>
 
 
@@ -75,7 +75,9 @@
   <!-- Streak animation as fallback or addition -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shukri-mo&theme=radical" alt="GitHub Streak" height="170" />
   <!-- Trophy (may not always load) -->
+  <p align= "center">
   <img src="https://github-profile-trophy.vercel.app/?username=shukri-mo&margin-w=5&theme=gruvbox" alt="GitHub Profile Trophy" height="170" />
+  </p>
 </p>
 
 <p align="center">
