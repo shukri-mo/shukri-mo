@@ -56,13 +56,6 @@
 
 ---
 
-## 🌟 Advocacy & Interests
-
-🦸‍♀️ Dedicated to empowering women in tech    
-🔎 Curious about everything—especially new frameworks, tools, and ideas  
-🎨 Love bringing creativity to code and design
-
----
 
 
 ## 📊 GitHub Analytics
@@ -120,14 +113,6 @@
 ---
 
 
-
-## 🎯 Current Goals for 2025
-
-- 📱 Build a React Native mobile app
-- 🧠 Learn Three.js for 3D web experiences
-- 🎨 Improve UI/UX design skills
-- 📝 Start technical blogging
-- 🤝 Contribute to more open source projects
 
 ---
 
